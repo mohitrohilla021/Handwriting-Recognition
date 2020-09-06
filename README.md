@@ -1,3 +1,5 @@
 # Handwriting-Recognition
 
-Handwriting recognition using deep learning simple model ans standard dataset MNIST.
+Handwriting recognition using deep learning simple model.
+
+The standard dataset MNIST is used.
